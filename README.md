@@ -48,3 +48,19 @@ Smarty Nutzung:
 ```
 {pace}
 ```
+
+Beispiel im HTML (pace sollte so früh wie möglich aufgerufen werden)
+
+```html
+<!doctype html>
+<html lang="{$Project->getAttribute('lang')}">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"/>
+    
+    {pace}
+    
+    <!-- anderes css / javascript oder QUIQQER header -->
+    
+</head>
+```
