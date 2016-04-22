@@ -47,6 +47,7 @@ Smarty Nutzung:
 
 ```
 {pace}
+{pace theme=""}
 ```
 
 Beispiel im HTML (pace sollte so früh wie möglich aufgerufen werden)
