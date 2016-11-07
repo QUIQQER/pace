@@ -2,7 +2,7 @@
   "name": "quiqqer/pace",
   "type": "quiqqer-plugin",
   "description": "Add a progress bar to your site",
-  "version": "dev-master",
+  "version": "dev-dev",
   "license": "MIT",
   "authors": [
     {
@@ -19,7 +19,7 @@
   "require": {
     "php": ">=5.3",
     "quiqqer/quiqqer": "*@dev",
-    "bower-asset/PACE": "1.*"
+    "npm-asset/PACE": "1.*"
   },
   "autoload": {
     "psr-4": {
