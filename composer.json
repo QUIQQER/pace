@@ -2,7 +2,7 @@
   "name": "quiqqer/pace",
   "type": "quiqqer-plugin",
   "description": "Add a progress bar to your site",
-  "version": "dev-dev",
+  "version": "dev-master",
   "license": "MIT",
   "authors": [
     {
