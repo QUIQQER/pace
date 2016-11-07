@@ -19,7 +19,7 @@
   "require": {
     "php": ">=5.3",
     "quiqqer/quiqqer": "*@dev",
-    "bower-asset/PACE": "1.*"
+    "npm-asset/PACE": "1.*"
   },
   "autoload": {
     "psr-4": {
