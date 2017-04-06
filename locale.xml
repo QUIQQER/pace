@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locales>
+    <groups name="quiqqer/pace" datatype="php,js">
+        <locale name="package.title">
+            <de><![CDATA[QUIQQER - PACE]]></de>
+            <en><![CDATA[QUIQQER - PACE]]></en>
+        </locale>
+        <locale name="package.description">
+            <de><![CDATA[Fügen Sie automatisch eine Fortschrittsleiste zu Ihrer Website hinzu]]></de>
+            <en><![CDATA[Automatically add a progress bar to your site]]></en>
+        </locale>
+    </groups>
+</locales>
