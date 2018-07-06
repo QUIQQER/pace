@@ -3,55 +3,60 @@
 HubSpots PACE for QUIQQER
 ========
 
-Automatically add a progress bar to your site
+Adds a progress indicator for your page load and ajax navigation to your website.  
+Based on [HubSpots PACE](http://github.hubspot.com/pace). 
 
 
-Paketname:
+Package name:
 
     quiqqer/pace
 
 
-Features (Funktionen)
+Features
 --------
 
-- pace for quiqqer
+- page-load and ajax-navigation progress indicator 
+
 
 Installation
 ------------
 
-Der Paketname ist: quiqqer/pace
+The package name is: quiqqer/pace
 
 
-Mitwirken
+Contribute
 ----------
 
+- Project: https://dev.quiqqer.com/quiqqer/pace
 - Issue Tracker: https://dev.quiqqer.com/quiqqer/pace/issues
-- Source Code: 
+- Source Code: https://dev.quiqqer.com/quiqqer/pace/tree/master
 
 
 Support
 -------
 
-Falls Sie ein Fehler gefunden haben, oder Verbesserungen wünschen,
-dann können Sie gerne an support@pcsg.de eine E-Mail schreiben.
+If you found any flaws, have any wishes or suggestions you can send an email
+to [support@pcsg.de](mailto:support@pcsg.de) to inform us about your concerns. 
+We will try to respond to your request and forward it to the responsible developer.
 
 
-Lizenz
+License
 -------
 
 MIT
 
-Entwickler
+
+Usage
 --------
 
-Smarty Nutzung:
+Smarty:
 
-```
+```smarty
 {pace}
 {pace theme=""}
 ```
 
-Beispiel im HTML (pace sollte so früh wie möglich aufgerufen werden)
+HTML (pace should be called as soon as possible):
 
 ```html
 <!doctype html>
@@ -62,7 +67,7 @@ Beispiel im HTML (pace sollte so früh wie möglich aufgerufen werden)
     
     {pace}
     
-    <!-- anderes css / javascript oder QUIQQER header -->
+    <!-- More CSS / JavaScript or QUIQQER header -->
     
 </head>
 ```
