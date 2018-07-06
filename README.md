@@ -48,6 +48,14 @@ MIT
 
 Usage
 --------
+Themes:  
+To see a list of all designs visit the [Pace Documentation](http://github.hubspot.com/pace/docs/welcome/) and see the `Themes` section.  
+The following colors are available for styling: `black, blue, green, orange, pink, purple, red, silver, white, yellow`  
+  
+To use for example a green center-atom-theme do the following:
+```smarty
+{pace theme="green/pace-theme-center-atom.css"}
+```  
 
 Smarty:
 
