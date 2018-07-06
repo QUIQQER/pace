@@ -1,3 +1,4 @@
+![Pace](bin/images/Readme.jpg)
 
 HubSpots PACE for QUIQQER
 ========
