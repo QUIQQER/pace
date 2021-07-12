@@ -17,8 +17,8 @@
     },
     "require": {
         "php": ">=5.3",
-        "quiqqer\/quiqqer": "*@dev",
-        "npm-asset\/pace-js": "1.*"
+        "quiqqer\/quiqqer": ">=1.6|dev-dev|dev-master",
+        "quiqqer-asset\/pace-js": "1.*"
     },
     "autoload": {
         "psr-4": {
